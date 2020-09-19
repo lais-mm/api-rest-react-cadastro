@@ -26,5 +26,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Desenvolvido por <a href="https://github.com/lais-mm">Laís Moreira </a> com :purple_heart:
+:computer:<a href="https://github.com/lais-mm">Laís Moreira </a>
 
