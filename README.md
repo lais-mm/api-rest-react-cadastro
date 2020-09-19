@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="#-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-preview">Preview</a>
-  <a href="#memo-licença">Licença</a>
+  <a href="#-descrição">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-descrição">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-descrição">Licença</a>
 </p>
  
 ## ✍ Descrição
@@ -13,12 +13,12 @@ Crud de cadastro de usuários em React.
 
 ## :computer: Tecnologias
  
-:black_medium_small_square:React
-:black_medium_small_square:JSON server
-:black_medium_small_square:Axios
+:black_medium_small_square:React <br>
+:black_medium_small_square:JSON server <br>
+:black_medium_small_square:Axios <br>
 
 ## :eye_speech_bubble: Preview
-
+![crud](https://github.com/lais-mm/api-rest-react-cadastro/blob/master/frontend/src/assets/imgs/crud.gif)
 
 ## 📋 Licença
 
